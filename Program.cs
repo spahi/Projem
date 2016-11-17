@@ -6,7 +6,8 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Merhaba dunya  merhaba kosova!");
+            Console.WriteLine("Merhaba dunya  merhaba kosova! devami");
+            Console.Readeline();
         }
     }
 }
