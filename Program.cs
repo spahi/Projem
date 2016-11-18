@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 
 namespace ConsoleApplication
 {
@@ -8,6 +9,7 @@ namespace ConsoleApplication
         {
             Console.WriteLine("Merhaba dunya  merhaba kosova! devami");
             Console.WriteLine("Ikinci sira");
+            Console.WriteLine("Bu da ucuncu sira");
             Console.ReadLine();
         }
     }
